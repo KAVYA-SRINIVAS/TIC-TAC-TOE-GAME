@@ -1,4 +1,4 @@
-# tictactoe
+# TIC TAC TOR=E GAME
 
 A new Flutter project.
 
